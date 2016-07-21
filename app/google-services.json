@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "237094869419",
+    "project_id": "ks-flashlight"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237094869419:android:6302fc6ae4aa17f0",
+        "android_client_info": {
+          "package_name": "com.ksrn.ks_flashtest1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWeiQzNfTFBZS7BfZSgyOKqqVoz_c6JJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-77875843-3"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
